@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adii79
-- 👀 I’m interested in App dev.,cyber security.
-- 🌱 I’m currently learning c++., JAVA
+- 👀 I’m interested in App dev.
+- 🌱 I’m currently learning c++,Swift.
 - I’m looking to collaborate on OPENSOURCE
 - 📫 How to reach me
 - adityashigam9755@gmail.com
