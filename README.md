@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+about+building+cool+stuff;App+Dev+%7C+IoT+%7C+C%2B%2B+%7C+Swift;Always+learning+something+new...&center=true&width=500&height=50">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+about+building+cool+stuff;App+Dev+%7C+IoT+%7C+C%2B%2B+%7C+Swift;Always+learning+something+new...&center=true&width=500&height=50">
 </p>
 
 ---
