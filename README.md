@@ -17,7 +17,7 @@
 - 🤝 I’m open to collaborating on **open source & embedded systems**
 - 🧰 Enjoy tinkering with **Arduino**, **ESP32**, and other microcontrollers
 - 📫 Reach me at: [adityashigam9755@gmail.com](mailto:adityashigam9755@gmail.com)
-- 🌐 Visit for more :- [(https://adi8.netlify.app)]
+- 🌐 Visit for more :- https://adi8.netlify.app
 ---
 
 ---
